@@ -2,7 +2,7 @@
 <h1 align=center> Bem-Vindos ao meu repositório! </h1>
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=Luis17c&show_icons=true&theme=radical"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis17c)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align=center>
   
