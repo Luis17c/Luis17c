@@ -1,11 +1,5 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Luis17c&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Luis17c&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Luis17c&show_icons=true" />
-</picture>
+<h1> Hi there! </h1>
+<h2> Programming Languages </h2>
+TypeScript, C#, C++
+<h2> Technologies </h2>
+Express, .NET, Docker, Docker-Compose, AWS services, unit tests and E2E. 
